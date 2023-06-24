@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Abel Dionisio Correa
-- 👀 I’m interested in interface design and FrontEnd development
-- 🌱 I’m currently learning UI/UX, Typescript & Angular
-- 💞️ I’m looking to collaborate on proyects about FrontEnd 
+- 👋 Hi, I’m Abel Correa
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Python, SQL, Power Bi
+- 💞️ I’m Studing Systems Analysis
 - 📫 How to reach me by abeld.correa@gmail.com
 
 <!---
